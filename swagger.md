@@ -13,7 +13,7 @@ swagger inicialmente divide la pantalla en 2 columnas, una donde se ve el conten
 ## secciones
 
 dentro de la representacion se encuentran las secciones que por lo regular tendremos una seccion por cada tabla en la base de datos
-<img src='imagenes/seccion.png'>
+<img src='imagenes/seccion.PNG'>
 
 la seccion cuenta con una breve descripción y los endpoints que deberá tener.
 

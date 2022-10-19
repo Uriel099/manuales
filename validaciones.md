@@ -8,6 +8,8 @@ hay dos maneras de validar los datos: con la librería express-validator y direc
 
 para ver la documentación oficial haz click en el siguiente enlace: https://express-validator.github.io/docs/
 
+ya deje express-validator como una dependencia entonces despues de clonar el repositorio y ejecutar el comando npm install entonces ya contarán con express-validator instalado
+
 A continuación les dejo ejemplos de validaciónes simples pero que pueden ser bastante utiles:
 
 ~~~js
